@@ -2,6 +2,10 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
+/*
+Autores: Adriana Fonseca e Henrique Furtado
+*/
+
 public class ChatClient {
     private static BufferedReader in;
     private static PrintWriter out;

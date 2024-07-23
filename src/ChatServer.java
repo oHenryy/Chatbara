@@ -2,6 +2,10 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
+/*
+Autores: Adriana Fonseca e Henrique Furtado
+*/
+
 public class ChatServer {
     private static final String USER_DATA_FILE = "user_data.txt";
     private static final String OFFLINE_MESSAGES_FILE = "offline_messages.txt";
