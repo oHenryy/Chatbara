@@ -17,7 +17,7 @@ O `ChatClient` se conecta ao servidor, envia comandos e recebe mensagens. Os com
 - `HELP`: Mostra a lista de comandos disponíveis.
 
 ### Restrições:
-- Comandos administrativos (`REGISTER`, `KILL`, `LIST_USERS`) não podem ser executados pelo cliente.
+- Comandos administrativos (`REGISTER` e `KILL`) não podem ser executados pelo cliente.
 
 ## ChatServer
 
