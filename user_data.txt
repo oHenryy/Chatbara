@@ -1,0 +1,7 @@
+Raffa 321 Tecnico
+Thereza 150 Aluno 2000
+Bill 012 Professor Mestre
+Zezinho 111 Aluno 2021
+Jao 345 Professor Doutor
+Mariazinha 222 Aluno 2020
+Henry 123 Professor Mestre
